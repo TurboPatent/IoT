@@ -7,7 +7,6 @@
   },
   "license": "MIT",
   "isPrivate": false,
-  "homepage": "https://tp.turbopatent.us/pathub/packages/TurboPatent/IoT.tp",
   "details": {
     "counts": {
       "termCount": 0,
@@ -16,392 +15,339 @@
       "drawingCount": 8,
       "glossaryCount": 21
     },
-    "drawings": [
+    "briefDescriptions": [
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"4b09bf94-0ed6-b86a-b419-85f1e2aece55\" id=\"idf9b9402d-4ef4-770c-9cb7-f656b13d6baa\" data-type=\"drawingObject\">IoT system 100</span> in accordance with one embodiment.</p>",
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"16c370bc-6f82-ad84-2d8d-ee9dd86142e1\" id=\"idf44d91fe-fe99-9f1b-2abc-558e9350fbe1\" data-type=\"drawingObject\">IoT system 200</span> in accordance with one embodiment.</p>",
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"c5258bda-bd40-e0f6-d905-fc58c5498bcd\" id=\"idad06ed3e-adf4-e69e-61f5-04445f3738d3\" data-type=\"drawingObject\">IoT system 300</span> in accordance with one embodiment.</p>",
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"f8e39d08-3b46-4e35-cdb0-c37b436b2b49\" id=\"ida394db7d-3ac2-2b94-9c26-a315a8c994ad\" data-type=\"drawingObject\">IoT system 400</span> in accordance with one embodiment.</p>",
+      "<p>illustrates an embodiment of an <span data-role=\"tag\" data-value=\"ffa56e9f-87c9-2781-cd7e-9051aedae7a7\" id=\"id4c81c3c4-558d-5669-578e-9979e1c7f9aa\" data-type=\"drawingObject\">IoT device 500</span>&nbsp;to&nbsp;implement components and process steps of the system&nbsp;described&nbsp;herein.</p>",
+      "<p>&nbsp;illustrates an embodiment of an &nbsp;<span data-role=\"tag\" data-value=\"ad851d84-99c2-939e-bd40-001482bc40ff\" id=\"id6abe196f-f707-3d7d-c0b6-ed4a6261fd25\" data-type=\"drawingObject\">IoT device 600</span>.</p>",
+      "<p>&nbsp;illustrates an embodiment of an &nbsp;<span data-role=\"tag\" data-value=\"b1b36bf1-6e35-bed2-a626-c7541e0b9d77\" id=\"idb80e7bc0-e558-bf67-2f6f-d514923c499d\" data-type=\"drawingObject\">IoT device 700</span>.</p>",
+      "<p>illustrates a diagrammatic representation of an <span data-role=\"tag\" data-value=\"bcedfc73-ab5a-71d2-fc71-28b77bff8f4d\" id=\"id7eabefcd-550d-e8b6-ff50-4e1d88e7b590\" data-type=\"drawingObject\">IoT device 800</span> in the form of a computer system within which a set of instructions may be executed for causing the machine to perform any one or more of the IoT functionalities discussed herein, according to an example embodiment.</p>"
+    ],
+    "parts": [
       {
-        "figure": "Fig. 1",
-        "briefDescription": "<p><b>Fig. 1</b> illustrates an IoT system 100 in accordance with one embodiment.</p>",
-        "parts": [
-          {
-            "part": "IoT system",
-            "number": 100
-          },
-          {
-            "part": "IoT devices",
-            "number": 102
-          },
-          {
-            "part": "wide area network",
-            "number": 104
-          },
-          {
-            "part": "server system",
-            "number": 106
-          },
-          {
-            "part": "proxy server",
-            "number": 108
-          }
-        ]
+        "name": "IoT system",
+        "number": 100
       },
       {
-        "figure": "Fig. 2",
-        "briefDescription": "<p><b>Fig. 2</b> illustrates an IoT system 200 in accordance with one embodiment.</p>",
-        "parts": [
-          {
-            "part": "IoT system",
-            "number": 200
-          },
-          {
-            "part": "IoT devices",
-            "number": 202
-          },
-          {
-            "part": "wide area network",
-            "number": 204
-          },
-          {
-            "part": "server system",
-            "number": 206
-          },
-          {
-            "part": "gateway device",
-            "number": 208
-          },
-          {
-            "part": "proxy server",
-            "number": 210
-          }
-        ]
+        "name": "IoT devices",
+        "number": 102
       },
       {
-        "figure": "Fig. 3",
-        "briefDescription": "<p><b>Fig. 3</b> illustrates an IoT system 300 in accordance with one embodiment.</p>",
-        "parts": [
-          {
-            "part": "IoT system",
-            "number": 300
-          },
-          {
-            "part": "IoT devices",
-            "number": 302
-          },
-          {
-            "part": "wide area network",
-            "number": 304
-          },
-          {
-            "part": "server system",
-            "number": 306
-          },
-          {
-            "part": "gateway device",
-            "number": 308
-          },
-          {
-            "part": "proxy server",
-            "number": 310
-          }
-        ]
+        "name": "wide area network",
+        "number": 104
       },
       {
-        "figure": "Fig. 4",
-        "briefDescription": "<p><b>Fig. 4</b> illustrates an IoT system 400 in accordance with one embodiment.</p>",
-        "parts": [
-          {
-            "part": "IoT system",
-            "number": 400
-          },
-          {
-            "part": "IoT devices",
-            "number": 402
-          },
-          {
-            "part": "wide area network",
-            "number": 404
-          },
-          {
-            "part": "server system",
-            "number": 406
-          },
-          {
-            "part": "gateway device",
-            "number": 408
-          },
-          {
-            "part": "proxy server",
-            "number": 410
-          }
-        ]
+        "name": "server system",
+        "number": 106
       },
       {
-        "figure": "Fig. 5",
-        "briefDescription": "<p><b>Fig. 5</b> illustrates an embodiment of an IoT device 500&#xA0;to&#xA0;implement components and process steps of the system&#xA0;described&#xA0;herein.</p>",
-        "parts": [
-          {
-            "part": "IoT device",
-            "number": 500
-          },
-          {
-            "part": "CPU",
-            "number": 502
-          },
-          {
-            "part": "input devices",
-            "number": 504
-          },
-          {
-            "part": "memory",
-            "number": 506
-          },
-          {
-            "part": "output devices",
-            "number": 508
-          },
-          {
-            "part": "storage devices",
-            "number": 510
-          },
-          {
-            "part": "network interface",
-            "number": 512
-          },
-          {
-            "part": "logic",
-            "number": 514
-          }
-        ]
+        "name": "proxy server",
+        "number": 108
       },
       {
-        "figure": "Fig. 6",
-        "briefDescription": "<p><b>Fig. 6</b> &#xA0;illustrates an embodiment of an &#xA0;IoT device 600.</p>",
-        "parts": [
-          {
-            "part": "IoT device",
-            "number": 600
-          },
-          {
-            "part": "antenna",
-            "number": 602
-          },
-          {
-            "part": "control logic",
-            "number": 604
-          },
-          {
-            "part": "wireless communication logic",
-            "number": 606
-          },
-          {
-            "part": "memory",
-            "number": 608
-          },
-          {
-            "part": "power manager",
-            "number": 610
-          },
-          {
-            "part": "battery",
-            "number": 612
-          },
-          {
-            "part": "user interface logic",
-            "number": 614
-          },
-          {
-            "part": "logic",
-            "number": 616
-          }
-        ]
+        "name": "IoT system",
+        "number": 200
       },
       {
-        "figure": "Fig. 7",
-        "briefDescription": "<p><b>Fig. 7</b> &#xA0;illustrates an embodiment of an &#xA0;IoT device 700.</p>",
-        "parts": [
-          {
-            "part": "IoT device",
-            "number": 700
-          },
-          {
-            "part": "antenna",
-            "number": 702
-          },
-          {
-            "part": "antenna",
-            "number": 704
-          },
-          {
-            "part": "signal processing and system control",
-            "number": 706
-          },
-          {
-            "part": "wireless communication",
-            "number": 708
-          },
-          {
-            "part": "SIM",
-            "number": 710
-          },
-          {
-            "part": "speaker",
-            "number": 712
-          },
-          {
-            "part": "vibration generator",
-            "number": 714
-          },
-          {
-            "part": "memory",
-            "number": 716
-          },
-          {
-            "part": "power manager",
-            "number": 718
-          },
-          {
-            "part": "battery",
-            "number": 720
-          },
-          {
-            "part": "user interface",
-            "number": 722
-          },
-          {
-            "part": "camera",
-            "number": 724
-          },
-          {
-            "part": "image processing",
-            "number": 726
-          },
-          {
-            "part": "wireless communication logic",
-            "number": 728
-          },
-          {
-            "part": "audio driver",
-            "number": 730
-          },
-          {
-            "part": "haptic driver",
-            "number": 732
-          }
-        ]
+        "name": "IoT devices",
+        "number": 202
       },
       {
-        "figure": "Fig. 8",
-        "briefDescription": "<p><b>Fig. 8</b> illustrates a diagrammatic representation of an IoT device 800 in the form of a computer system within which a set of instructions may be executed for causing the machine to perform any one or more of the IoT functionalities discussed herein, according to an example embodiment.</p>",
-        "parts": [
-          {
-            "part": "IoT device",
-            "number": 800
-          },
-          {
-            "part": "processors",
-            "number": 802
-          },
-          {
-            "part": "memory",
-            "number": 804
-          },
-          {
-            "part": "processor",
-            "number": 806
-          },
-          {
-            "part": "instructions",
-            "number": 808
-          },
-          {
-            "part": "instructions",
-            "number": 808
-          },
-          {
-            "part": "instructions",
-            "number": 808
-          },
-          {
-            "part": "instructions",
-            "number": 808
-          },
-          {
-            "part": "instructions",
-            "number": 808
-          },
-          {
-            "part": "processor",
-            "number": 810
-          },
-          {
-            "part": "main memory",
-            "number": 812
-          },
-          {
-            "part": "static memory",
-            "number": 814
-          },
-          {
-            "part": "storage unit",
-            "number": 816
-          },
-          {
-            "part": "machine-readable medium",
-            "number": 818
-          },
-          {
-            "part": "network",
-            "number": 820
-          },
-          {
-            "part": "devices",
-            "number": 822
-          },
-          {
-            "part": "coupling",
-            "number": 824
-          },
-          {
-            "part": "coupling",
-            "number": 826
-          },
-          {
-            "part": "output components",
-            "number": 828
-          },
-          {
-            "part": "input&#xA0;components",
-            "number": 830
-          },
-          {
-            "part": "biometric&#xA0;components",
-            "number": 832
-          },
-          {
-            "part": "motion&#xA0;components",
-            "number": 834
-          },
-          {
-            "part": "environmental components",
-            "number": 836
-          },
-          {
-            "part": "position&#xA0;components",
-            "number": 838
-          },
-          {
-            "part": "communication&#xA0;components",
-            "number": 840
-          },
-          {
-            "part": "I/O components",
-            "number": 842
-          },
-          {
-            "part": "bus",
-            "number": 844
-          }
-        ]
+        "name": "wide area network",
+        "number": 204
+      },
+      {
+        "name": "server system",
+        "number": 206
+      },
+      {
+        "name": "gateway device",
+        "number": 208
+      },
+      {
+        "name": "proxy server",
+        "number": 210
+      },
+      {
+        "name": "IoT system",
+        "number": 300
+      },
+      {
+        "name": "IoT devices",
+        "number": 302
+      },
+      {
+        "name": "wide area network",
+        "number": 304
+      },
+      {
+        "name": "server system",
+        "number": 306
+      },
+      {
+        "name": "gateway device",
+        "number": 308
+      },
+      {
+        "name": "proxy server",
+        "number": 310
+      },
+      {
+        "name": "IoT system",
+        "number": 400
+      },
+      {
+        "name": "IoT devices",
+        "number": 402
+      },
+      {
+        "name": "wide area network",
+        "number": 404
+      },
+      {
+        "name": "server system",
+        "number": 406
+      },
+      {
+        "name": "gateway device",
+        "number": 408
+      },
+      {
+        "name": "proxy server",
+        "number": 410
+      },
+      {
+        "name": "IoT device",
+        "number": 500
+      },
+      {
+        "name": "CPU",
+        "number": 502
+      },
+      {
+        "name": "input devices",
+        "number": 504
+      },
+      {
+        "name": "memory",
+        "number": 506
+      },
+      {
+        "name": "output devices",
+        "number": 508
+      },
+      {
+        "name": "storage devices",
+        "number": 510
+      },
+      {
+        "name": "network interface",
+        "number": 512
+      },
+      {
+        "name": "logic",
+        "number": 514
+      },
+      {
+        "name": "IoT device",
+        "number": 600
+      },
+      {
+        "name": "antenna",
+        "number": 602
+      },
+      {
+        "name": "control logic",
+        "number": 604
+      },
+      {
+        "name": "wireless communication logic",
+        "number": 606
+      },
+      {
+        "name": "memory",
+        "number": 608
+      },
+      {
+        "name": "power manager",
+        "number": 610
+      },
+      {
+        "name": "battery",
+        "number": 612
+      },
+      {
+        "name": "user interface logic",
+        "number": 614
+      },
+      {
+        "name": "logic",
+        "number": 616
+      },
+      {
+        "name": "IoT device",
+        "number": 700
+      },
+      {
+        "name": "antenna",
+        "number": 702
+      },
+      {
+        "name": "antenna",
+        "number": 704
+      },
+      {
+        "name": "signal processing and system control",
+        "number": 706
+      },
+      {
+        "name": "wireless communication",
+        "number": 708
+      },
+      {
+        "name": "SIM",
+        "number": 710
+      },
+      {
+        "name": "speaker",
+        "number": 712
+      },
+      {
+        "name": "vibration generator",
+        "number": 714
+      },
+      {
+        "name": "memory",
+        "number": 716
+      },
+      {
+        "name": "power manager",
+        "number": 718
+      },
+      {
+        "name": "battery",
+        "number": 720
+      },
+      {
+        "name": "user interface",
+        "number": 722
+      },
+      {
+        "name": "camera",
+        "number": 724
+      },
+      {
+        "name": "image processing",
+        "number": 726
+      },
+      {
+        "name": "wireless communication logic",
+        "number": 728
+      },
+      {
+        "name": "audio driver",
+        "number": 730
+      },
+      {
+        "name": "haptic driver",
+        "number": 732
+      },
+      {
+        "name": "IoT device",
+        "number": 800
+      },
+      {
+        "name": "processors",
+        "number": 802
+      },
+      {
+        "name": "memory",
+        "number": 804
+      },
+      {
+        "name": "processor",
+        "number": 806
+      },
+      {
+        "name": "instructions",
+        "number": 808
+      },
+      {
+        "name": "processor",
+        "number": 810
+      },
+      {
+        "name": "main memory",
+        "number": 812
+      },
+      {
+        "name": "static memory",
+        "number": 814
+      },
+      {
+        "name": "storage unit",
+        "number": 816
+      },
+      {
+        "name": "machine-readable medium",
+        "number": 818
+      },
+      {
+        "name": "network",
+        "number": 820
+      },
+      {
+        "name": "devices",
+        "number": 822
+      },
+      {
+        "name": "coupling",
+        "number": 824
+      },
+      {
+        "name": "coupling",
+        "number": 826
+      },
+      {
+        "name": "output components",
+        "number": 828
+      },
+      {
+        "name": "input components",
+        "number": 830
+      },
+      {
+        "name": "biometric components",
+        "number": 832
+      },
+      {
+        "name": "motion components",
+        "number": 834
+      },
+      {
+        "name": "environmental components",
+        "number": 836
+      },
+      {
+        "name": "position components",
+        "number": 838
+      },
+      {
+        "name": "communication components",
+        "number": 840
+      },
+      {
+        "name": "I/O components",
+        "number": 842
+      },
+      {
+        "name": "bus",
+        "number": 844
       }
     ],
+    "terms": [],
     "glossary": [
       {
         "term": "6LoWPAN",
@@ -487,8 +433,7 @@
         "term": "Zigbee",
         "definition": "short range wireless networking protocol that primarily operates on the 2.4 GHz frequency spectrum. ZigBee devices connect in a mesh topology, forwarding messages from controlling nodes to slaves, which repeat commands to other connected nodes."
       }
-    ],
-    "terms": []
+    ]
   },
   "repository": "https://github.com/TurboPatent/IoT"
 }
