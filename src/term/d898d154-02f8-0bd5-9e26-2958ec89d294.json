@@ -1,0 +1,4 @@
+{
+  "text": "Zigbee",
+  "definition": "<p>short range wireless networking protocol that primarily operates on the 2.4 GHz frequency spectrum. <span data-role=\"tag\" data-value=\"d898d154-02f8-0bd5-9e26-2958ec89d294\" id=\"id6373da7e-fa68-50fd-c89d-96733df92c14\" data-type=\"term\">Zigbee</span> devices connect in a mesh topology, forwarding messages from controlling nodes to slaves, which repeat commands to other connected nodes.</p>"
+}

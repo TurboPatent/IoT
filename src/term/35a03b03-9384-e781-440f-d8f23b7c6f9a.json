@@ -1,0 +1,4 @@
+{
+  "text": "IGMP",
+  "definition": "<p>Internet Group Management Protocol, a communication protocol based on the IP protocol and is used to support group communication. <span data-role=\"tag\" data-value=\"35a03b03-9384-e781-440f-d8f23b7c6f9a\" id=\"id8a7a2a2b-78ce-d101-0d60-e456c9e68b7e\" data-type=\"term\">IGMP</span> allows for IP-multicasting that enables the transmission of IP packages to many receivers with one transmission.</p>"
+}

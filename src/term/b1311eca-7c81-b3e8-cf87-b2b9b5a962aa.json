@@ -1,0 +1,4 @@
+{
+  "text": "iBeacon",
+  "definition": "<p>a technology introduced by Apple that uses sensors to locate iOS or Android devices indoors and can send them notifications via <span data-role=\"tag\" data-value=\"1d0a7109-ef53-b9f5-e065-193e8261aa40\" id=\"id405cda79-13cc-21c0-0432-63431d4287da\" data-type=\"term\">Bluetooth Low Energy (BLE)</span>.</p>"
+}
